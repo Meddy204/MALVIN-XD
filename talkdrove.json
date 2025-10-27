@@ -9,22 +9,22 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "description": "malvin~2lgj2IbD#UEe5xEhhJS7C7NKbO4T20uDlznT5A06j_KRzTaUTSTcf51a7b3c1502ee99",
         "value":"",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "255 622 731 311",
       "required": true,
-      "value": "263714757857"
+      "value": "255 622731311"
       
        },
       "TIMEZONE": {
-      "description": "Enter country timezone",
+      "description": "East African time",
       "required": true,
-      "value": "Africa/Harare"
+      "value": "Africa/Daresalaam"
 
     }  
   }
